@@ -5,12 +5,12 @@ This project demonstrates how to implement Backup and Disaster Recovery on AWS u
 The goal was to safely back up an EC2 instance, simulate data loss, and successfully restore the system using snapshots.
 
 **Technologies Used**
-Amazon EC2
-Amazon EBS
-EBS Snapshots
-Linux (Amazon Linux 2023)
-AWS Management Console
-AWS EC2 Instance Connect
+> Amazon EC2
+> Amazon EBS
+> EBS Snapshots
+> Linux (Amazon Linux 2023)
+> AWS Management Console
+> AWS EC2 Instance Connect
 
 **Project Objectives**
 - Create a reliable backup of EC2 data using EBS snapshots
