@@ -66,8 +66,10 @@ ls /recovery
 
 Issue:
 Mount failed using legacy device name /dev/xvdb1
+
 Root Cause:
 AWS Nitro instances expose volumes as NVMe devices
+
 Solution:
 Used lsblk to identify correct device (/dev/nvme1n1p1) and mounted successfully
 
