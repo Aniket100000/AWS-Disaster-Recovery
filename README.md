@@ -6,10 +6,15 @@ The goal was to safely back up an EC2 instance, simulate data loss, and successf
 
 **Technologies Used**
 > Amazon EC2
+
 > Amazon EBS
+
 > EBS Snapshots
+
 > Linux (Amazon Linux 2023)
+
 > AWS Management Console
+
 > AWS EC2 Instance Connect
 
 **Project Objectives**
