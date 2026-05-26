@@ -81,7 +81,7 @@ Successfully backed up and restored EC2 data using EBS snapshots with minimal do
 
 ## Screenshots
 
-```markdown
+
 ## Screenshots
 
 ![EBS Snapshot](./screenshots/EBS%20Snapshot%20(Backup).png)
