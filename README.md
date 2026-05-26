@@ -79,16 +79,5 @@ Used lsblk to identify correct device (/dev/nvme1n1p1) and mounted successfully
 Successfully backed up and restored EC2 data using EBS snapshots with minimal downtime and validated recovery using Linux commands.
 
 
-## Screenshots
-
-
-## Screenshots
-
-![EBS Snapshot](./screenshots/EBS%20Snapshot%20(Backup).png)
-
-![Restore Volume](./screenshots/Restore%20Volume%20from%20Snapshot.png)
-
-![Mount Restored Volume](./screenshots/Mount%20Restored%20Volume%20(Recovery).png)
-```
 
 
