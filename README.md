@@ -59,11 +59,8 @@ AWS NVMe device mapping observed
 
 5️⃣ Mount Restored Volume (Recovery)
 
-lsblk
-sudo mkdir /recovery
-sudo mount /dev/nvme1n1p1 /recovery
-ls /recovery
-📸 Proof:<img width="1360" height="543" alt="Screenshot 2026-01-22 111033" src="https://github.com/user-attachments/assets/23d4baf6-230a-4879-afbe-b7f2a6feeb06" />
+### Mount Restored Volume
+![Mount Restored Volume](screenshots/mount-restored-volume.png)
 
 
 **Challenge Faced & Solution**
