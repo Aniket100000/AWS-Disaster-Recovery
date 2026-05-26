@@ -44,15 +44,13 @@ Installed Apache server and stored sample data
 
 2️⃣ Create EBS Snapshot (Backup)
 
-Created a snapshot of the attached EBS root volume
-Snapshot stored safely in AWS for recovery
-📸 Proof:<img width="1364" height="542" alt="Screenshot 2026-01-22 111451" src="https://github.com/user-attachments/assets/51e1fc9c-0d82-46e2-9c68-9ff2d675a57e" />
+### EBS Snapshot Backup
+![EBS Snapshot](screenshots/ebs-snapshot-backup.png)
 
 3️⃣ Restore Volume from Snapshot
 
-Created a new EBS volume from the snapshot
-Verified volume size and type (gp3)
-📸 Proof:<img width="1358" height="533" alt="Screenshot 2026-01-22 115018" src="https://github.com/user-attachments/assets/17ced456-cf8c-4a5a-9d73-dc788a7b2026" />
+### Restore Volume
+![Restore Volume](screenshots/restore-volume-from-snapshot.png)
 
 4️⃣ Attach Volume to Recovery Instance
 
