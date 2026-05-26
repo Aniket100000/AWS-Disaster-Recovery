@@ -74,5 +74,21 @@ AWS Nitro instances expose volumes as NVMe devices
 Solution:
 Used lsblk to identify correct device (/dev/nvme1n1p1) and mounted successfully
 
-Result:
+## Result
+
 Successfully backed up and restored EC2 data using EBS snapshots with minimal downtime and validated recovery using Linux commands.
+
+## Screenshots
+
+### EBS Snapshot Backup
+
+![EBS Snapshot](screenshots/EBS%20Snapshot%20\(Backup\).png)
+
+### Restore Volume from Snapshot
+
+![Restore Volume](screenshots/Restore%20Volume%20from%20Snapshot.png)
+
+### Mount Restored Volume
+
+![Mount Restored Volume](screenshots/Mount%20Restored%20Volume%20\(Recovery\).png)
+
