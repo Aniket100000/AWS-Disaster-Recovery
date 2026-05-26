@@ -81,14 +81,13 @@ Successfully backed up and restored EC2 data using EBS snapshots with minimal do
 ## Screenshots
 
 ### EBS Snapshot Backup
-
-![EBS Snapshot](screenshots/EBS%20Snapshot%20\(Backup\).png)
+![EBS Snapshot](screenshots/ebs-snapshot-backup.png)
 
 ### Restore Volume from Snapshot
 
-![Restore Volume](screenshots/Restore%20Volume%20from%20Snapshot.png)
+![Restore Volume](screenshots/restore-volume-from-snapshot.png)
 
 ### Mount Restored Volume
 
-![Mount Restored Volume](screenshots/Mount%20Restored%20Volume%20\(Recovery\).png)
+![Mount Restored Volume](screenshots/mount-restored-volume.png)
 
